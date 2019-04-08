@@ -1,1 +1,1 @@
-A simple chrome extension for my girl friend!
+A simple chrome extension for my gf!!
